@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Nayeem Ahammed
 
-<!--
-**Nayeem-Ahammed/Nayeem-Ahammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd-year ICT student from Bangladesh  
+💻 Learning: C++, DSA, and Web Development  
+🧠 Exploring Competitive Programming & Open Source  
+🚀 Building projects and solving real-world problems  
 
-Here are some ideas to get you started:
+📫 Reach me at: [nayeem.ahammed@gmail.com](mailto:nayeem.ahammed@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/nayeemahammed](https://linkedin.com/in/nayeemahammed)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+- Programming: `C++`, `Python`, `JavaScript`
+- Web: `HTML`, `CSS`, `React`
+- Tools: `Git`, `GitHub`, `VS Code`
+
+---
+
+## 📂 Pinned Projects
+- 🧠 [DSA Practice](https://github.com/nayeemahammed/dsa-practice)
+- 🌐 [My Portfolio](https://github.com/nayeemahammed/portfolio)
+- ✍️ [Blog Site (Mini)](https://github.com/nayeemahammed/blog-mini)
+
+---
+
+## 📊 GitHub Stats
+
+![Nayeem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayeemahammed&show_icons=true&theme=radical)
