@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Nayeem Ahammed
+# 👋 Assalamu alaikom, I'm Nayeem Ahammed
 
-🎓 2nd-year ICT student from Bangladesh  
+🎓 Undergraduate student from Bangladesh  
 💻 Learning: C++, DSA, and Web Development  
 🧠 Exploring Competitive Programming & Open Source  
 🚀 Building projects and solving real-world problems  
 
-📫 Reach me at: [nayeem.ahammed@gmail.com](mailto:nayeem.ahammed@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/nayeemahammed](https://linkedin.com/in/nayeemahammed)
+📫 Reach me at: [nayeem.ahammed01@gmail.com](mailto:nayeem.ahammed01@gmail.com)  
+🔗 LinkedIn: [Nayeem Ahammed](https://www.linkedin.com/in/nayeem-ahammed-bba8713b8/)
 
 ---
 
@@ -18,7 +18,7 @@
 ---
 
 ## 📂 Pinned Projects
-- 🧠 [DSA Practice](https://github.com/nayeemahammed/dsa-practice)
+- 🧠 [DSA Practice]([https://github.com/nayeemahammed/dsa-practice](https://github.com/Nayeem-Ahammed/Data-Structure-and-Algorithm))
 - 🌐 [My Portfolio](https://github.com/nayeemahammed/portfolio)
 - ✍️ [Blog Site (Mini)](https://github.com/nayeemahammed/blog-mini)
 
